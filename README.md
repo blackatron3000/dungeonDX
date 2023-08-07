@@ -1,2 +1,4 @@
-# zelda-like
- first top down 2d game. zelda-like
+# dungeonDX
+ A simple mini fantasy dungeon-crawler game. The goal is to beat the final boss.
+
+ Made with LÖVE.
