@@ -1,0 +1,11 @@
+{
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.runtime.special": {
+        "love.filesystem.load": "loadfile"
+    },
+    "Lua.workspace.library": [
+        "c:/Users/thelo/.vscode/extensions/sumneko.lua-3.6.20-win32-x64/server/meta/5393ac01",
+        "c:/Users/thelo/LOVE",
+        "${3rd}/love2d/library"
+    ]
+}
